@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "io.ohtaeyang95.onesignaltest",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1",
+        "outputFile": "app-release.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "io.ohtaeyang95.onesignaltest",
+        "split": "",
+        "minSdkVersion": "19"
+      }
+    }
+  ]
+}
